@@ -1,6 +1,3 @@
-Absolutely! Here's a sample README file for your travel chatbot project that incorporates RAG (Retrieve and Generate) chain, real-time tool search, and weather report functionality:
-
----
 
 # 🦜🔗 Travel Chatbot with RAG Chain
 
